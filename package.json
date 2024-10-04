@@ -1,0 +1,23 @@
+{
+  "name": "string_calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stringCalculator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashish0459/String_calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ashish0459/String_calculator/issues"
+  },
+  "homepage": "https://github.com/Ashish0459/String_calculator#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
